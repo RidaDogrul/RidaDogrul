@@ -6,7 +6,7 @@ I'm a passionate **Machine Learning Engineer & Data Scientist** who loves buildi
 
 ## 🚀 About Me
 
-- 🎓 Recent graduate with a strong focus on AI & Machine Learning
+- 🎓 Recent Computer Engineering graduate with a strong focus on AI & Machine Learning
 
 ---
 
@@ -49,16 +49,15 @@ I'm a passionate **Machine Learning Engineer & Data Scientist** who loves buildi
 
 ---
 ### 📊 TT-Bootcamp Capstone — Churn Prediction @ Türk Telekom
+> Customer churn prediction on 10M+ records contributed to Trendyol Tech Bootcamp repository
 
-Customer churn prediction on 10M+ records contributed to Trendyol Tech Bootcamp repository
+- Processed 10M+ customer records using **DuckDB SQL** for fast, scalable data querying
+- Service-specific feature engineering to capture customer behavior patterns
+- Trained a **CatBoost** model to handle high-cardinality categoricals and class imbalance
+- Built an interactive **Streamlit** dashboard for result visualization
+- 🔗 [Fork: RidaDogrul/tt-bootcamp](https://github.com/RidaDogrul/tt-bootcamp)
+- `Python` `DuckDB` `CatBoost` `Streamlit` `Feature Engineering` `Churn Prediction`
 
-
-Processed 10M+ customer records using DuckDB SQL for fast, scalable data querying
-Service-specific feature engineering to capture customer behavior patterns
-Trained a CatBoost model to handle high-cardinality categoricals and class imbalance
-Built an interactive Streamlit dashboard for result visualization
-🔗 Fork: RidaDogrul/tt-bootcamp
-Python DuckDB CatBoost Streamlit Feature Engineering Churn Prediction
 
 ---
 ### 🗺️ TÜBİTAK Carbon Mapper
